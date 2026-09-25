@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.micro-tv.cn/sitemap.xml
